@@ -1,0 +1,154 @@
+h1{
+    color: rgb(0, 0, 0);
+}
+h4{
+    color: #6aa7edc5;
+}
+
+.exile-regular {
+    font-family: "Exile", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.roboto-uniquifier {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+
+.josefin-sans-uniquifier {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fondo_azul {
+    background-color: #106eea;
+  }
+
+  #top_bar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white
+  }
+
+  i{
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  #menu{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#menu a{
+    color: #222222;
+}
+
+#hero {
+    padding-top: 160px;
+    padding-bottom: 160px;
+    background-image: url('../img/edificio.jpg');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Cover the entire section with the image */
+    opacity: 0.6; /* Optional: Adjust the opacity of the background image */
+}
+
+.color_azul {
+    color: #106eea;
+}
+
+.sombras{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.centrado {
+    text-align: center;
+}
+
+#about_us {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #f5f9ff;
+}
+
+.boton_aboutus{
+  background-color: rgb(178, 214, 247);
+  color: rgb(14, 94, 214);
+  font-size: 10px;
+}
+
+.barra_footer{
+  background-color: #f5f9ff;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+.texto_padding{
+  padding-left: 10px;
+}
+
+.espacio_footer{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.font_grisoscuro{
+  color: rgb(108, 107, 107);
+}
+
+.padding_footer{
+  padding-left: 53px;
+}
+
+.icono_footer{
+  color:  rgb(14, 94, 214);
+}
+
+.iconos_gris{
+  color: rgb(141, 139, 139);
+  margin-left: 10px;
+  font-size: 30px;
+}
+
+hr{
+  color: rgb(181, 181, 181);
+
+}
+
+.font_boldgris{
+  color: rgb(77, 76, 76);
+}
+
+.center{
+  text-align: center;
+}
+
+.font_grislight{
+  color: rgb(129, 128, 128);
+  font-weight: light ;
+  font-size: 12px;
+}
+
+.boton_contact{
+  background-color: rgb(178, 214, 247);
+  color: rgb(14, 94, 214);
+  font-size: 10px;
+}
+
+.p_todo{
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
